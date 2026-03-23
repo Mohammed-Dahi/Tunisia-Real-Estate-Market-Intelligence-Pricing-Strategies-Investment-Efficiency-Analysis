@@ -1,0 +1,2 @@
+# Tunisia-Real-Estate-Market-Intelligence-Pricing-Strategies-Investment-Efficiency-Analysis
+Conducted an end-to-end analysis of 6,314 real estate listings across Tunisia to optimize investment allocation and identify high-value property features. Developed a multi-layered dashboard to evaluate regional market efficiency, segment properties by luxury tier, and quantify the price impact of premium amenities
