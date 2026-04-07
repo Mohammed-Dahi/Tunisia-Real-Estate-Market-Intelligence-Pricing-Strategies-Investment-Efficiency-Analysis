@@ -20,9 +20,3 @@ This project transforms raw real estate data into actionable investment intellig
 * **Top Performing Hubs:** Tunis leads the market with an average of $3,440 \text{ TND}/m^2$, representing a 31% premium over the market average.
 * **The "Luxury" Lift:** Properties with a **Swimming Pool** command a **+97% price premium** (+539K TND) compared to those without.
 * **Portfolio Risk:** Identified **Ben Arous** as an "Over-Invested" region—high supply volume but pricing remains 32% below the market average.
-
-## 📂 Repository Structure
-- `/data`: Raw and cleaned datasets.
-- `/docs`: Data dictionary and methodology report.
-- `Real_Estate_Market_Analysis.xlsx`: The final interactive dashboard.
-- `Executive_Summary.pdf`: Formal presentation of findings.
